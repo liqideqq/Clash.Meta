@@ -17,7 +17,7 @@ There are two parsed data formats:
   - Fetching: use `client.fetch_user_v1(800333171)`
   - Data model: `mihomo.models.v1.StarrailInfoParsedV1`
   - All models defined in `mihomo/models/v1` directory.
-- V2: 
+- V21: 
   - URL: https://api.mihomo.me/sr_info_parsed/800333171?lang=en
   - Fetching: use `client.fetch_user(800333171)`
   - Data model: `mihomo.models.StarrailInfoParsed`
